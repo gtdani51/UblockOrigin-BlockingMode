@@ -1,0 +1,52 @@
+# Default entries from Ublock Origin-Medium Mode
+https://ublockorigin.github.io/uAssets/filters/filters.txt
+https://ublockorigin.github.io/uAssets/filters/badware.txt
+https://ublockorigin.github.io/uAssets/filters/privacy.txt
+https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssetsCDN@main/filters/quick-fixes.txt
+https://ublockorigin.github.io/uAssets/filters/resource-abuse.txt
+https://ublockorigin.github.io/uAssets/filters/unbreak.txt
+https://easylist.to/easylist/easylist.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
+https://easylist.to/easylist/easyprivacy.txt
+https://malware-filter.pages.dev/urlhaus-filter-online.txt
+https://ublockorigin.github.io/uAssets/filters/annoyances.txt
+
+# Other Adguard lists
+https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
+https://filters.adtidy.org/extension/ublock/filters/11.txt
+https://filters.adtidy.org/extension/ublock/filters/3.txt
+https://filters.adtidy.org/extension/ublock/filters/17.txt
+https://filters.adtidy.org/extension/ublock/filters/14.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
+
+# Region-specific lists (Indonesian)
+https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
+https://easylist-downloads.adblockplus.org/abpindo+easylist.txt
+https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
+https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid_plus.txt
+
+# Enhanced Privacy
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
+
+# Others
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
+https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt
+https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
+https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+https://www.i-dont-care-about-cookies.eu/abp/
+https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+
+# Third party fonts
+https://fanboy.co.nz/fanboy-antifonts.txt
+
+# Other third-party tracking
+https://easylist.to/easylist/fanboy-social.txt
+
+# Annoyances on Twitter
+https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
+
+# My own block list
+https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
