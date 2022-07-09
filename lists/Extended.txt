@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadbl
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://www.i-dont-care-about-cookies.eu/abp/
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://abp.oisd.nl/basic/
 https://raw.githubusercontent.com/llacb47/miscfilters/master/antipaywall.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 https://easylist-msie.adblockplus.org/abp-filters-anti-cv.txt
