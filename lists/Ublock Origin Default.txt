@@ -1,0 +1,11 @@
+# Default entries from Ublock Origin - Easy Mode
+https://ublockorigin.github.io/uAssets/filters/filters.txt
+https://ublockorigin.github.io/uAssets/filters/badware.txt
+https://ublockorigin.github.io/uAssets/filters/privacy.txt
+https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssetsCDN@main/filters/quick-fixes.txt
+https://ublockorigin.github.io/uAssets/filters/resource-abuse.txt
+https://ublockorigin.github.io/uAssets/filters/unbreak.txt
+https://easylist.to/easylist/easylist.txt
+https://easylist.to/easylist/easyprivacy.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
+https://malware-filter.pages.dev/urlhaus-filter-online.txt
