@@ -15,6 +15,9 @@ https://ublockorigin.github.io/uAssets/filters/annoyances.txt
 https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules.txt
 https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules-mob.txt
 
+# Specific region website
+https://block.energized.pro/extensions/regional/formats/filter
+
 # Other Adguard lists
 https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
 https://filters.adtidy.org/extension/ublock/filters/11.txt
