@@ -7,7 +7,7 @@ You can choose any list from the table, then hold the name to copy its link. Add
 | Link | Description  |
 | ------ | ------|
 | [Ublock Origin - Easy Mode](https://github.com/vjrmy/UblockOrigin-medium-mode-bromite/releases/latest/download/Ublock_Origin_Default.dat) | Ublock origin - Easy Mode [default filters](https://github.com/gorhill/uBlock/wiki/Blocking-mode) |
-| [Ublock Origin - Medium Mode](https://github.com/vjrmy/UblockOrigin-medium-mode-bromite/releases/latest/download/Ublock-Origin-Medium-mode.dat) | The default list with additional the 3rd-party scripts and 3rd-party frames globally blocked. Thanks to @Yuki2718's [Dynamic Rules](https://github.com/Yuki2718/adblock) |
+| [Ublock Origin - Medium Mode](https://github.com/vjrmy/UblockOrigin-medium-mode-bromite/releases/latest/download/Ublock-Origin-Medium-mode.dat) | The default list with additional the 3rd-party scripts and 3rd-party frames globally blocked. Thanks to @Yuki2718 's [Dynamic Rules](https://github.com/Yuki2718/adblock) |
 | [Bromite Extended (Soft)](https://github.com/xarantolus/filtrite/releases/latest/download/bromite-extended-soft.dat) | Same as the "Bromite Extended" list, but with less aggressive filtering (should break fewer sites) |
 | [German](https://github.com/xarantolus/filtrite/releases/latest/download/german.dat) | The "Bromite Extended" list with additional region-specific blocklists for german sites |
 
