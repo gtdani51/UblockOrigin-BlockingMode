@@ -1,4 +1,4 @@
-## Ublock Origin filters (Medium Mode) for bromite
+## Ublock Origin filters (Blocking Mode) for bromite
   a fork project for generating Ublock Origin filter lists for [Bromite](https://www.bromite.org/). See the page about [Custom Ad Block Filters](https://www.bromite.org/custom-filters) for more info.
 
 # Lists
@@ -8,8 +8,8 @@ You can choose any list from the table, then hold the name to copy its link. Add
 | ------ | ------|
 | [Ublock Origin - Easy Mode](https://github.com/vjrmy/UblockOrigin-medium-mode-bromite/releases/latest/download/Ublock_Origin_Default.dat) | Ublock origin - Easy Mode [default filters](https://github.com/gorhill/uBlock/wiki/Blocking-mode) |
 | [Ublock Origin - Medium Mode](https://github.com/vjrmy/UblockOrigin-medium-mode-bromite/releases/latest/download/Ublock-Origin-Medium-mode.dat) | The default list with additional the 3rd-party scripts and 3rd-party frames globally blocked. Thanks to [Yuki's Dynamic Rules](https://github.com/Yuki2718/adblock) |
-| [Bromite Extended (Soft)](https://github.com/xarantolus/filtrite/releases/latest/download/bromite-extended-soft.dat) | Same as the "Bromite Extended" list, but with less aggressive filtering (should break fewer sites) |
-| [German](https://github.com/xarantolus/filtrite/releases/latest/download/german.dat) | The "Bromite Extended" list with additional region-specific blocklists for german sites |
+| [Extended](https://github.com/vjrmy/UblockOrigin-BlockingMode/releases/latest/download/Extended.dat) | My personal filters (Ublock Origin - Medium Mode with huge other lists) |
+| [Indonesian](https://github.com/vjrmy/UblockOrigin-BlockingMode/releases/latest/download/Indonesian.dat) | The "Extended" list with additional region-specific blocklists for Indonesian sites |
 
 Alternatively, you can [go here to search forks of this project](https://filterlists.010.one/) for more lists, e.g. for other countries.
 
