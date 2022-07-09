@@ -16,7 +16,10 @@ Alternatively, you can [go here to search forks of this project](https://filterl
 
 These lists are regularly updated automatically using GitHub Actions.
 
-**Note**: I'm not 100% sure if all list formats that are used are actually supported by [the ruleset generation tool](https://github.com/xarantolus/subresource_filter_tools) (as the output indicates some failures). If you have a comment on that, please open an issue :)
+**Note**: 
+1. Please tell me in issues tab if there is a redundant filter or filter that breaks website because your information maybe so valueable to me.
+2. Maybe next update, i will make a optimized/minified version or you have a request, tell me in issues tab too.
+3. I'm not 100% sure if all list formats that are used are actually supported by [the ruleset generation tool](https://github.com/xarantolus/subresource_filter_tools) (as the output indicates some failures). If you have a comment on that, please open an issue :)
 
 ### Advanced blocking
 The normal Bromite ad blocking engine does not support all blocking formats. However, since the introduction of user scripts, it has become possible to block even more annoying elements. If you want more blockers (e.g. for cookie prompts), see my [custom Bromite user scripts repository](https://github.com/xarantolus/bromite-userscripts/). 
