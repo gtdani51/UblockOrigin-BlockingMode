@@ -8,8 +8,8 @@ You can choose any list from the table, then hold the name to copy its link. Add
 | ------ | ------|
 | [Ublock Origin - Easy Mode](https://github.com/vjrmy/UblockOrigin-BlockingMode/releases/latest/download/Ublock-Origin-Default.dat) | Ublock origin - Easy Mode [default filters](https://github.com/gorhill/uBlock/wiki/Blocking-mode) |
 | [Ublock Origin - Medium Mode](https://github.com/vjrmy/UblockOrigin-BlockingMode/releases/latest/download/Ublock-Origin-Medium-mode.dat) | The default list with additional the 3rd-party scripts and 3rd-party frames globally blocked. Thanks to [Yuki's Dynamic Rules](https://github.com/Yuki2718/adblock) |
-| [Extended](https://github.com/vjrmy/UblockOrigin-BlockingMode/releases/latest/download/Extended.dat) | My personal filters (Ublock Origin - Medium Mode with huge other lists) |
-| [Indonesian](https://github.com/vjrmy/UblockOrigin-BlockingMode/releases/latest/download/Indonesian.dat) | The "Extended" list with additional region-specific blocklists for Indonesian sites |
+| [Extended - Multi Region](https://github.com/vjrmy/UblockOrigin-BlockingMode/releases/latest/download/Extended.dat) | My personal extended filters (Ublock Origin - Medium Mode with huge other lists) and multi region filter list |
+| [Extended - Indonesian](https://github.com/vjrmy/UblockOrigin-BlockingMode/releases/latest/download/Indonesian.dat) | The "Extended" list with additional region-specific blocklists for Indonesian sites |
 
 Alternatively, you can [go here to search forks of this project](https://filterlists.010.one/) for more lists, e.g. for other countries.
 
