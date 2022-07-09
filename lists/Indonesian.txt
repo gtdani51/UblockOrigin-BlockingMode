@@ -41,6 +41,14 @@ https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadbl
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://www.i-dont-care-about-cookies.eu/abp/
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://adaway.org/hosts.txt
+https://gnuzilla.gnu.org/filters/blacklist.txt
+https://raw.githubusercontent.com/llacb47/miscfilters/master/antipaywall.txt
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
+https://easylist-msie.adblockplus.org/abp-filters-anti-cv.txt
+https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
 
 # Third party fonts
 https://fanboy.co.nz/fanboy-antifonts.txt
@@ -48,8 +56,5 @@ https://fanboy.co.nz/fanboy-antifonts.txt
 # Other third-party tracking
 https://easylist.to/easylist/fanboy-social.txt
 
-# Annoyances on Twitter
-https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
-
-# My own block list
+# Xarantolus's own block list
 https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
