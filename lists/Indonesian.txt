@@ -12,6 +12,7 @@ https://malware-filter.pages.dev/urlhaus-filter-online.txt
 https://ublockorigin.github.io/uAssets/filters/annoyances.txt
 
 # Dynamic Rules - the 3rd-party scripts and 3rd-party frames
+https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules.txt
 https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules-mob.txt
 
 # Other Adguard lists
