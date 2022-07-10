@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid_plu
 # Enhanced Privacy
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
-https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
 
 # Others
