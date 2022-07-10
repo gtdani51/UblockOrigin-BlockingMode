@@ -1,4 +1,7 @@
-https://block.energized.pro/blu/formats/filter
+https://block.energized.pro/bluGo/formats/filter
 https://block.energized.pro/extensions/regional/formats/filter
 https://block.energized.pro/extensions/social/formats/filter
 https://abp.oisd.nl/basic/
+https://easylist.to/easylist/easyprivacy.txt
+https://filters.adtidy.org/extension/ublock/filters/17.txt
+https://filters.adtidy.org/extension/ublock/filters/3.txt
