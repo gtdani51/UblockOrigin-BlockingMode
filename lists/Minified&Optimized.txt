@@ -1,0 +1,18 @@
+# Minified by ABP
+https://easylist-downloads.adblockplus.org/abpindo-minified.txt
+https://easylist-downloads.adblockplus.org/easylist-minified.txt
+https://easylist-downloads.adblockplus.org/easyprivacy-minified.txt
+https://easylist-downloads.adblockplus.org/fanboy-social-minified.txt
+
+# Optimized by Aduard
+https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/17_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/4_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/122_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/123_optimized.txt
