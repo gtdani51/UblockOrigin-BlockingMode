@@ -12,7 +12,6 @@ https://malware-filter.pages.dev/urlhaus-filter-online.txt
 https://ublockorigin.github.io/uAssets/filters/annoyances.txt
 
 # Dynamic Rules - the 3rd-party scripts and 3rd-party frames
-https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules.txt
 https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules-mob.txt
 
 # Specific region website
@@ -27,22 +26,20 @@ https://filters.adtidy.org/extension/ublock/filters/14.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
 
 # Enhanced Privacy
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
 https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
 
 # Others
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
 https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt
 https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://www.i-dont-care-about-cookies.eu/abp/
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+https://fanboy.co.nz/fanboy-problematic-sites.txt
 https://abp.oisd.nl/basic/
 https://raw.githubusercontent.com/llacb47/miscfilters/master/antipaywall.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
-https://easylist-msie.adblockplus.org/abp-filters-anti-cv.txt
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
 
 # Third party fonts
