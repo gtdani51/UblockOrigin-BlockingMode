@@ -19,7 +19,6 @@ https://block.energized.pro/extensions/regional/formats/filter
 
 # Other Adguard lists
 https://filters.adtidy.org/extension/ublock/filters/11.txt
-https://filters.adtidy.org/extension/ublock/filters/3.txt
 https://filters.adtidy.org/extension/ublock/filters/17.txt
 https://filters.adtidy.org/extension/ublock/filters/14.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
