@@ -2,7 +2,6 @@ https://block.energized.pro/bluGo/formats/filter
 https://block.energized.pro/extensions/regional/formats/filter
 https://block.energized.pro/extensions/social/formats/filter
 https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock
-https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt
 https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
 https://www.i-dont-care-about-cookies.eu/abp/
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
