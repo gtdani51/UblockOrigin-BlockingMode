@@ -1,4 +1,4 @@
-# Default entries from Ublock Origin - Easy Mode
+# Default entries from Ublock Origin  Easy Mode
 https://ublockorigin.github.io/uAssets/filters/filters.txt
 https://ublockorigin.github.io/uAssets/filters/badware.txt
 https://ublockorigin.github.io/uAssets/filters/privacy.txt
