@@ -6,5 +6,5 @@ https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.t
 https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
 https://www.i-dont-care-about-cookies.eu/abp/
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
-https://abp.oisd.nl/basic/
+https://abp.oisd.nl/basic
 
