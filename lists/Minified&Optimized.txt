@@ -1,4 +1,4 @@
-# Minified by ABP (just add "-minified.txt" without quote in every ABP's filter link)
+# 1Minified by ABP (just add "-minified.txt" without quote in every ABP's filter link)
 https://easylist-downloads.adblockplus.org/abpindo-minified.txt
 https://easylist-downloads.adblockplus.org/abpindo+easylist-minified.txt
 https://easylist-downloads.adblockplus.org/easylist-minified.txt
