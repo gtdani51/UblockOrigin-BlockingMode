@@ -11,8 +11,9 @@ https://easylist.to/easylist/easyprivacy.txt
 https://malware-filter.pages.dev/urlhaus-filter-online.txt
 https://ublockorigin.github.io/uAssets/filters/annoyances.txt
 
-# Dynamic Rules - the 3rd-party scripts and 3rd-party frames
-https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules-mob.txt
+# Dynamic Rules - the 3rd-party scripts and 3rd-party filters
+https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules.txt
+https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules-mob.txt
 
 # Specific region website
 https://block.energized.pro/extensions/regional/formats/filter
@@ -28,8 +29,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%
 https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
 
-# Others
-https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt
+# Other
 https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://www.i-dont-care-about-cookies.eu/abp/
