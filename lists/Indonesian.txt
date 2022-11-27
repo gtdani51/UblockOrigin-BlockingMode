@@ -12,7 +12,8 @@ https://malware-filter.pages.dev/urlhaus-filter-online.txt
 https://ublockorigin.github.io/uAssets/filters/annoyances.txt
 
 # Dynamic Rules - the 3rd-party scripts and 3rd-party frames
-https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules-mob.txt
+https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules.txt
+https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules-mob.txt
 
 # Other Adguard lists
 https://filters.adtidy.org/extension/ublock/filters/11.txt
@@ -32,7 +33,6 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%
 https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock
 
 # Others
-https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt
 https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://www.i-dont-care-about-cookies.eu/abp/
