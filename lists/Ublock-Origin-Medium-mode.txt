@@ -11,6 +11,6 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimet
 https://malware-filter.pages.dev/urlhaus-filter-online.txt
 
 # Dynamic Rules - the 3rd-party scripts and 3rd-party frames
-https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules.txt
-https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules-mob.txt
+https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules.txt
+https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules-mob.txt
 
